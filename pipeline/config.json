@@ -47,7 +47,7 @@
     ],
     "_blockDomains": "Outlets/sites to ignore (matched against the article's web address).",
     "blockDomains": ["capitolskyline.com", "streamlinefeed.co.ke"],
-    "blockAny": ["jackie milburn", "milburn house", "milburn park", "milburn road", "milburn street", "milburn avenue", "milburn tower", "milburn's pub"]
+    "blockAny": ["become an independent member", "bookmark this article", "bookmark your favourite articles", "subscribe to continue reading", "sign up to read", "log in to continue", "jackie milburn", "milburn house", "milburn park", "milburn road", "milburn street", "milburn avenue", "milburn tower", "milburn's pub"]
   },
   "themes": {
     "Apprenticeships": "(?i)apprentice",
