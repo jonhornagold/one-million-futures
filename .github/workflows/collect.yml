@@ -1,0 +1,39 @@
+# Daily collection: finds new Milburn Review coverage and opens a "Daily review" pull request.
+# Nothing is published until a person merges that pull request.
+name: Daily collection
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC = 06:00 UK in winter, 07:00 UK in summer
+  workflow_dispatch: {}   # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: daily-collection
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect new stories
+        id: collect
+        shell: pwsh
+        run: ./pipeline/collect.ps1
+
+      - name: Open or update the daily review pull request
+        if: steps.collect.outputs.added != '0'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: daily-review
+          delete-branch: true
+          add-paths: data/stories.json
+          commit-message: "Daily review: ${{ steps.collect.outputs.added }} new stories"
+          title: "Daily review: ${{ steps.collect.outputs.added }} new stories"
+          body-path: pipeline/out/review.md
+          labels: daily-review
