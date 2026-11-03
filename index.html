@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>One Million Futures | Milburn Review news tracker</title>
+  <meta name="description" content="Daily news and commentary on the Milburn Review (Young People and Work), the independent review into the one million 16–24 year olds in the UK not in education, employment or training.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700;9..144,800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#feed">Skip to latest stories</a>
+
+  <header class="masthead">
+    <div class="wrap masthead__inner">
+      <a class="brand" href="#top" aria-label="One Million Futures home">
+        <span class="brand__mark" aria-hidden="true">1M</span>
+        <span class="brand__name">One Million Futures</span>
+      </a>
+      <nav class="nav" aria-label="Sections">
+        <a href="#feed">Latest</a>
+        <a href="#timeline">Timeline</a>
+        <a href="#about">About the review</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="status" role="status">
+    <div class="wrap status__inner">
+      <span class="pulse" aria-hidden="true"></span>
+      <span id="status-text"><strong>Awaiting the final report</strong> · expected autumn 2026</span>
+      <span class="status__updated" id="last-updated"></span>
+    </div>
+  </div>
+
+  <main id="top">
+    <!-- HERO -->
+    <section class="hero">
+      <div class="wrap hero__grid">
+        <div>
+          <p class="eyebrow">Following the Milburn Review</p>
+          <h1 class="hero__number"><span id="count-up" data-target="1012000">1,012,000</span></h1>
+          <p class="hero__lede">young people aged 16–24 in the UK are not in education, employment or training. Alan Milburn's independent review is asking why, and what to do about it. We bring the coverage together every day.</p>
+          <p class="hero__source">Source: ONS, Jan–Mar 2026</p>
+        </div>
+        <figure class="ratio" aria-label="Today around 1 in 8 young people are NEET; by 2031 it could be 1 in 6">
+          <div class="ratio__row">
+            <span class="ratio__label">Today</span>
+            <div class="people" data-of="8" data-on="1"></div>
+            <span class="ratio__value">1 in 8</span>
+          </div>
+          <div class="ratio__row">
+            <span class="ratio__label">2031?</span>
+            <div class="people" data-of="6" data-on="1"></div>
+            <span class="ratio__value">1 in 6</span>
+          </div>
+          <figcaption>The review's projection if nothing changes</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <!-- STATS -->
+    <section class="stats" aria-labelledby="stats-h">
+      <div class="wrap">
+        <h2 id="stats-h" class="section-title">The numbers behind the review</h2>
+        <div class="stats__grid">
+          <article class="stat stat--accent">
+            <p class="stat__value">£125bn</p>
+            <p class="stat__label">estimated yearly cost to the UK economy</p>
+            <a class="stat__src" href="https://www.cityam.com/milburn-review-neets-crisis-costs-125bn-a-year-due-to-broken-system/" target="_blank" rel="noopener">Interim report, via City AM</a>
+          </article>
+          <article class="stat">
+            <p class="stat__value">84%</p>
+            <p class="stat__label">of NEET young people surveyed want a job or training</p>
+            <a class="stat__src" href="https://en.wikipedia.org/wiki/Young_People_and_Work" target="_blank" rel="noopener">Interim report</a>
+          </article>
+          <article class="stat">
+            <p class="stat__value">£25 : £1</p>
+            <p class="stat__label">spent on benefits vs. employment support for young people (2024/25)</p>
+            <a class="stat__src" href="https://www.expressandstar.com/uk-news/milburn-warns-of-shameful-failings-trapping-young-people-on-benefits-8638463" target="_blank" rel="noopener">Interim report, via Express &amp; Star</a>
+          </article>
+          <article class="stat">
+            <p class="stat__value">+80%</p>
+            <p class="stat__label">more likely to be NEET if you have SEND</p>
+            <a class="stat__src" href="https://www.disabilityrightsuk.org/node/4846" target="_blank" rel="noopener">Interim report, via Disability Rights UK</a>
+          </article>
+          <article class="stat">
+            <p class="stat__value">1.25m</p>
+            <p class="stat__label">projected NEET young people by 2031 without action</p>
+            <a class="stat__src" href="https://schoolsweek.co.uk/neet-numbers-could-hit-1-25m-within-five-years-milburn-warns/" target="_blank" rel="noopener">Interim report, via Schools Week</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- FEATURED -->
+    <section class="featured" aria-labelledby="featured-h">
+      <div class="wrap">
+        <h2 id="featured-h" class="section-title">Story of the day</h2>
+        <div id="featured"></div>
+      </div>
+    </section>
+
+    <!-- FEED -->
+    <section class="feed" id="feed" aria-labelledby="feed-h">
+      <div class="wrap">
+        <div class="feed__head">
+          <h2 id="feed-h" class="section-title">Latest coverage</h2>
+          <p class="feed__count" id="feed-count" aria-live="polite"></p>
+        </div>
+
+        <div class="controls">
+          <label class="search">
+            <span class="visually-hidden">Search stories</span>
+            <svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            <input id="search" type="search" placeholder="Search headlines and summaries">
+          </label>
+          <div class="chips" id="type-filters" role="group" aria-label="Filter by source type"></div>
+          <div class="chips chips--themes" id="theme-filters" role="group" aria-label="Filter by theme"></div>
+        </div>
+
+        <div id="feed-list"></div>
+        <div class="more-wrap"><button type="button" class="btn btn--ghost" id="more" hidden>Show more stories</button></div>
+        <p class="empty" id="empty" hidden>No stories match those filters. <button type="button" class="linkish" id="reset">Clear filters</button></p>
+      </div>
+    </section>
+
+    <!-- CHART -->
+    <section class="coverage" aria-labelledby="coverage-h">
+      <div class="wrap">
+        <h2 id="coverage-h" class="section-title">Coverage over time</h2>
+        <p class="section-sub">Stories per month. Peaks follow the review's milestones.</p>
+        <div id="chart" class="chart"></div>
+      </div>
+    </section>
+
+    <!-- TIMELINE -->
+    <section class="timeline" id="timeline" aria-labelledby="timeline-h">
+      <div class="wrap">
+        <h2 id="timeline-h" class="section-title">Where the review is up to</h2>
+        <ol class="tl">
+          <li class="tl__item is-done">
+            <span class="tl__date">Nov 2025</span>
+            <h3>Review launched</h3>
+            <p>DWP asks former Health Secretary Alan Milburn to lead an independent review of young people and work.</p>
+          </li>
+          <li class="tl__item is-done">
+            <span class="tl__date">16 Dec 2025 – 30 Jan 2026</span>
+            <h3>Call for evidence</h3>
+            <p>Young people, employers, educators and charities share their experience.</p>
+          </li>
+          <li class="tl__item is-done">
+            <span class="tl__date">28 May 2026</span>
+            <h3>Interim report</h3>
+            <p>A diagnosis of the problem: its scale, its cost and its causes. Solutions come later.</p>
+          </li>
+          <li class="tl__item is-current">
+            <span class="tl__date" id="tl-final-date">Autumn 2026 (expected)</span>
+            <h3>Final report</h3>
+            <p>Recommendations for reform. <strong>We are here: waiting for publication.</strong></p>
+          </li>
+          <li class="tl__item">
+            <span class="tl__date">To follow</span>
+            <h3>Government response</h3>
+            <p>Ministers set out which recommendations they will take forward.</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section class="about" id="about" aria-labelledby="about-h">
+      <div class="wrap about__grid">
+        <div>
+          <h2 id="about-h" class="section-title">About the review</h2>
+          <p>The Milburn Review, formally <em>Young People and Work</em>, is an independent review commissioned by the Department for Work and Pensions. It is led by <strong>Alan Milburn</strong>, a former Labour MP and Secretary of State for Health.</p>
+          <p>It looks at why around one million 16–24 year olds are <strong>NEET</strong> (not in education, employment or training), what this costs young people and the country, and what should change.</p>
+        </div>
+        <div class="about__card">
+          <h3>About this site</h3>
+          <p>One Million Futures is an independent tracker. We are not affiliated with the government or the review.</p>
+          <p>Every day we collect UK news, official updates and notable LinkedIn posts about the review. A person checks each story before it is published. Summaries are short. Always read the full article at the source.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer__inner">
+      <p><strong>One Million Futures</strong>: independent coverage of the Milburn Review.</p>
+      <p class="footer__small">Headlines, summaries and links belong to their publishers. Summaries are taken from publishers' own descriptions or written by our editor. Always read the full article at the source.</p>
+    </div>
+  </footer>
+
+  <script src="data/stories.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

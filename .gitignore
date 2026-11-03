@@ -1,0 +1,7 @@
+pipeline/out/
+_site/
+upload-to-github/
+.claude/
+CLAUDE.md
+MEMORY.md
+PRD.md
