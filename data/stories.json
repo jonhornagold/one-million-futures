@@ -9,6 +9,115 @@
   },
   "stories": [
     {
+      "id": "20261105-birmingham-live-c8113b",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Birmingham Live",
+      "title": "DWP update for benefits claimants with depression, anxiety, autism ahead of review",
+      "url": "https://www.msn.com/en-gb/news/newsbirmingham/dwp-update-for-benefits-claimants-with-depression-anxiety-autism-ahead-of-review/ar-AA2gNV9V",
+      "date": "2026-11-05",
+      "summary": "DWP data published this week showed 45.3% of Neets were classed as disabled in the year to…",
+      "themes": [
+        "Benefits & welfare",
+        "Mental health",
+        "SEND"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-06"
+    },
+    {
+      "id": "20261105-eastern-daily-press-3e6a30",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Eastern Daily Press",
+      "title": "We don’t need a NEET fix, we need to prevent it",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZmRLOEx0SExPN0dZMWUzbEVNOHpnR0VBUTJwMXZ6cFhEV2NIdUViNHN0eWlXQVZhRHBNdXlIVTRLYllkdkt5WER0ZDV0Q3VQSGpFZEdyYlJDbzVQQWFVN0w0cWNRd0Z5ellYMHhacjlDOUVwbHdqbWZrSU5iZ2k0b3NSekpvSVU?oc=5",
+      "date": "2026-11-05",
+      "summary": "",
+      "themes": [],
+      "foundVia": "google",
+      "addedOn": "2026-11-06",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261105-schools-week-ebda0b",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Schools Week",
+      "title": "Milburn must champion small actions with a large impact",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGQwMzRtbnNuNl9raTlUa25uWllNYUoyQXZFTU01Qks5cjJKa040ZHhyX1pjYndPTFRiamFyN1UzcmwwMGdjRVFxVmRoZkxkNG9KQ3NYd0JJMTdlUEtELWFWMkhtSk90TDN6cURicWIyX1ZRa3JDbTlIZUtTUDJGc19Fa1NEbDQ?oc=5",
+      "date": "2026-11-05",
+      "summary": "",
+      "themes": [],
+      "foundVia": "google",
+      "addedOn": "2026-11-06",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261105-the-independent-0b1446",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Independent",
+      "title": "Milburn review to call for young NEETs to be located and tracked",
+      "url": "https://www.msn.com/en-gb/money/economy/milburn-review-to-call-for-young-neets-to-be-located-and-tracked/ar-AA2gQTVL",
+      "date": "2026-11-05",
+      "summary": "Milburn review to call for young Neets to be located and tracked - Exclusive: Labour’s youth unemployment tsar says he is inspired by Dutch model where youth workers ‘literally knock on…",
+      "themes": [
+        "Politics"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-06"
+    },
+    {
+      "id": "20261104-birmingham-live-48f86c",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Birmingham Live",
+      "title": "DWP handed Milburn Review recommendations with some benefits 'cuts' suggested",
+      "url": "https://www.msn.com/en-gb/news/other/dwp-handed-milburn-review-recommendations-with-some-benefits-cuts-suggested/ar-AA2gNaTv",
+      "date": "2026-11-04",
+      "summary": "Mr Milburn's early recommendations are for benefits claimants aged 16 to 24 who are disabled and chronically ill.",
+      "themes": [
+        "Benefits & welfare",
+        "SEND"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-06"
+    },
+    {
+      "id": "20261104-fe-news-f552ef",
+      "status": "approved",
+      "type": "news",
+      "outlet": "FE News",
+      "title": "NEET doesn’t happen overnight: Reflections ahead of the Milburn review",
+      "url": "https://www.fenews.co.uk/exclusive/neet-doesnt-happen-overnight-reflections-ahead-of-the-milburn-review/",
+      "date": "2026-11-04",
+      "summary": "As we await Alan Milburn’s final review of young people and work, much of the debate has understandably focused on the scale of youth inactivity,… NEET doesn’t happen overnight: Reflections ahead of the Milburn review was published on FE News by Vikki Smith…",
+      "themes": [
+        "Education & FE"
+      ],
+      "foundVia": "feed",
+      "addedOn": "2026-11-06"
+    },
+    {
+      "id": "20261104-the-guardian-2a7d12",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Guardian",
+      "title": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
+      "url": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
+      "date": "2026-11-04",
+      "summary": "Exclusive: Government should introduce ‘flexi-jobs’ alongside subsidies and skills support, former minister will…",
+      "themes": [
+        "SEND",
+        "Politics"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-06"
+    },
+    {
       "id": "20261103-eastern-daily-press-539766",
       "status": "approved",
       "type": "news",
@@ -214,6 +323,22 @@
       ],
       "foundVia": "bing",
       "addedOn": "2026-11-03"
+    },
+    {
+      "id": "20261025-shropshire-live-25c35c",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Shropshire Live",
+      "title": "Outdoor education must be part of any plan to tackle NEETs",
+      "url": "https://www.shropshirelive.com/news/2026/10/26/outdoor-education-must-be-part-of-any-plan-to-tackle-neets/",
+      "date": "2026-10-25",
+      "summary": "Any national plan to cut the rising number of young people not in education, employment or training must include outdoor education, says Field Studies Council.",
+      "themes": [
+        "Education & FE",
+        "Regional"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-06"
     },
     {
       "id": "20261025-the-guardian-739735",
@@ -437,6 +562,22 @@
       "themes": [],
       "foundVia": "bing",
       "addedOn": "2026-11-03"
+    },
+    {
+      "id": "20261019-the-guardian-d3a0b6",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Guardian",
+      "title": "Who exactly will be affected by the UK review of benefits for young people?",
+      "url": "https://www.theguardian.com/society/2026/oct/20/neets-explainer-alan-milburn-young-people-work",
+      "date": "2026-10-19",
+      "summary": "Around one in eight 16- to 24-year-olds are ‘Neet’ – and Alan Milburn is hinting that the overhaul of their support may be controversial With nearly 1 million young people not in education,…",
+      "themes": [
+        "Benefits & welfare",
+        "Education & FE"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-06"
     },
     {
       "id": "20261019-the-independent-97942f",
@@ -2350,6 +2491,22 @@
       "addedOn": "2026-11-03",
       "needsSummary": true,
       "linkIsRedirect": true
+    },
+    {
+      "id": "20260531-city-a-m-2ff6c3",
+      "status": "approved",
+      "type": "news",
+      "outlet": "City A.M.",
+      "title": "Milburn NEET review: Anger crackles from the page but will Labour act?",
+      "url": "https://www.cityam.com/milburn-neet-review-anger-crackles-from-the-page-but-will-labour-act/",
+      "date": "2026-05-31",
+      "summary": "Alan Milburn‘s review into Britain’s economically inactive youth (or NEETs) makes for extraordinary reading, but will the government act, asks Eliot Wilson It is a testament to Sir Tony Blair’s…",
+      "themes": [
+        "Politics",
+        "Economy"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-06"
     },
     {
       "id": "20260531-the-i-paper-d5de3d",
