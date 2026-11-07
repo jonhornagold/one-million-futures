@@ -9,6 +9,108 @@
   },
   "stories": [
     {
+      "id": "20261106-newswav-dc87dc",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Newswav",
+      "title": "Employment 'part of the answer' for Neets with mental health issues, McFadden says",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnNtWm5kS1dWcWVzNFpndDRVM3c4NEJIVGNHZWdIT3pqZ2lOYmI3RDhVdXYxZnE2c1pmWFk2SjE4U0xBNzZnMmQwUU9oVGNtT05DdjBMWnlJR0tDYm9hZkFqQzlPcGhxUnZlXzZyeVFnOHpzMWM3MjRBMFhNUEZfYXBSX3dDYi11MFIwdS0zcDhMU2dKWGNUYUJoTlJGYm5pQXBfVUU1cVhBeTVCb1dGMmtGcVZmdw?oc=5",
+      "date": "2026-11-06",
+      "summary": "",
+      "themes": [
+        "Mental health"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-07",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261106-onrec-899247",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Onrec",
+      "title": "Milburn review expected to urge paid jobs for disabled young people",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWdLYzBnX1o5bHZGTmdlLXNkeWh0amI0NndwbkRBekpLTUh0dTh1OTRUd2FzZWFSRW1xT0pXbkZZRm1RdktHYnhlUE1ia2JEUENHV0Fud3VPdGc3S2lrYjdPSC1RcnlxMEs3NE14R2Z5VjRLcEZ6MC1qY3dyUTUxUzFaaTlYV0daSHJJQUQ3cl9jZkdTbW9XUVhzdjAwWElJeXA3ZGlGeU9mR3ZrRC0tdEYwUTNJb1pK?oc=5",
+      "date": "2026-11-06",
+      "summary": "",
+      "themes": [
+        "SEND"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-07",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261106-senedd-research-6098a8",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Senedd Research",
+      "title": "Young people’s experiences of not being in education, employment or training (NEET)",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWHZ1cHdsUjdvYk05N0hYVENVMnItb0QzekxiWjZqVEt6NnhkVEdJYngxTVhXcHRCRUlJZ3M1RWRTZ2pKMXpzZWNTaEhyQ0ptMV9ueW5FZlMxMm1xVG83OWtORVdZOWlZdURydTFZZ0VrUThtLVc4YW4wcmVtTHcxa3FFSFgzR1Nna1ZWMjVSdTFPemMyeU12NUQ1V2I2OU5wdmxvbFgwVGhsOXFvSUZVNkFlTWRwSmFNQkQ2OFgtVDh6cFRpRFBzMw?oc=5",
+      "date": "2026-11-06",
+      "summary": "",
+      "themes": [
+        "Education & FE"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-07",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261106-the-guardian-01d3d3",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Guardian",
+      "title": "Burnham aims for ‘quite radical change’ in support for young people",
+      "url": "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets",
+      "date": "2026-11-06",
+      "summary": "Prime minister says ‘root and branch review of childhood’ is needed and he does not rule out some benefit cuts The government is aiming for “quite radical change” in the way young people are supported, Andy Burnham has said, indicating this could include tougher rules…",
+      "themes": [
+        "Benefits & welfare",
+        "Politics"
+      ],
+      "foundVia": "feed",
+      "addedOn": "2026-11-07"
+    },
+    {
+      "id": "20261106-the-sun-7d520d",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Sun",
+      "title": "Young entrepreneurs should get £3k grants to help start their own firms, demands Labour’s jobs czar",
+      "url": "https://www.thesun.co.uk/news/40944109/labour-jobs-czar-demands-grants-for-young-entrepreneurs/",
+      "date": "2026-11-06",
+      "summary": "JOBS tsar Alan Milburn will demand young entrepreneurs are given beefed-up support to be their own boss as part of his major review into youth inactivity. The Labour grandee is calling…",
+      "themes": [
+        "Employers",
+        "Politics",
+        "Economy"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-07"
+    },
+    {
+      "id": "20261106-the-times-fbd365",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Times",
+      "title": "We’ll need to spend on Neets to get benefits down, says Andy Burnham",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2xXYThVd0xXX05TOTcza2ZlZGdLUTVMQmVmQVBjSDdSOGtaRDhWOGdQU2JCYUx2U1BBMk53dUxLSms3NzFNcEx6ZUdOMkoyeFZ2VkR5TEw2MWF0cHF2Ykk5aUltU0F4ZFFBZEtkRGx0ei05QlVPZHYzcVhGeERhUmlhVUlIdUpmV3lrbzFWcjN3VnRlQWc1UmtOdw?oc=5",
+      "date": "2026-11-06",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare",
+        "Politics"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-07",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
       "id": "20261105-birmingham-live-c8113b",
       "status": "approved",
       "type": "news",
@@ -116,6 +218,21 @@
       ],
       "foundVia": "bing",
       "addedOn": "2026-11-06"
+    },
+    {
+      "id": "20261104-yorkshire-post-82944a",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Yorkshire Post",
+      "title": "Barnsley is plagued with feral youngsters in story echoed across the North: Jayne Dowle",
+      "url": "https://www.yorkshirepost.co.uk/news/opinion/columnists/barnsley-is-plagued-with-feral-youngsters-in-story-echoed-across-the-north-jayne-dowle-9330000",
+      "date": "2026-11-04",
+      "summary": "Alan Milburn is recommending ‘tough love’ to crack down on the persistent matter of ‘neets’, young people not in education, employment or training, but his mission is going to need a lot more…",
+      "themes": [
+        "Education & FE"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-07"
     },
     {
       "id": "20261103-eastern-daily-press-539766",
@@ -1831,6 +1948,21 @@
       "addedOn": "2026-11-03",
       "needsSummary": true,
       "linkIsRedirect": true
+    },
+    {
+      "id": "20260806-msn-c31a3b",
+      "status": "approved",
+      "type": "news",
+      "outlet": "MSN",
+      "title": "DWP PIP link to work update for 4 million claimants ahead of possible reforms",
+      "url": "https://www.msn.com/en-gb/news/newsbirmingham/dwp-pip-link-to-work-update-for-4-million-claimants-ahead-of-possible-reforms/ar-AA29wbA5",
+      "date": "2026-08-06",
+      "summary": "A damning review into the state of the Department for Work and Pensions (DWP) bill has slammed the DWP for not linking Personal Independence Payment to work. The Milburn Report is currently…",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-07"
     },
     {
       "id": "20260729-north-east-bylines-6b0207",
