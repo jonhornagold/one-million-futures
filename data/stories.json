@@ -9,6 +9,813 @@
   },
   "stories": [
     {
+      "id": "20261114-financial-times-fe2305",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Financial Times",
+      "title": "Milburn review to call for tens of thousands of further education places",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVlkYkpyYnc2dWozdmVVX0RlbDZJMnhxSExMYWtyOTdfTDN5YXJrSll4TzV2MDYxeVlZdk8tVHBQeEEtYWJwak1Rd0w2blFDa2F6bUp1c1Zwb1lZMXhaaU1WTHVEQV9VbG1VYWxNMFJCTmRxNHdjdHRrS2xfeVBYQ0liWTg?oc=5",
+      "date": "2026-11-14",
+      "summary": "",
+      "themes": [
+        "Education & FE"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261113-bbc-4dfe66",
+      "status": "approved",
+      "type": "news",
+      "outlet": "BBC",
+      "title": "Young people should have legal guarantee to job or training, says Milburn",
+      "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo",
+      "date": "2026-11-13",
+      "summary": "Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from benefits for young people.",
+      "themes": [
+        "Benefits & welfare",
+        "Politics"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261113-cyp-now-b2bc51",
+      "status": "approved",
+      "type": "news",
+      "outlet": "CYP Now",
+      "title": "Care leavers not earning or learning – what should we expect from the Milburn Review?",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHBtWDhpY2ltOVFjZFRkTEpfTFhDdVBraktWUEJhYzc3cmtXY05kTUl5S2VrdjVpb0NqX2JQa0lSMU1YRkxsaVZtZ204UU02Z0cxaXh3cjdQRUpZY3BaM2l5aFhES25veUN5WHUxWTQtbjJuVzFrV1hvODExUm5EZ1pxRmt3TU11c2NRUTh5NkphVjFKYzZBcnJlMFpiQUxMelZtblR5WTZxa1BLVXNlNjlUQmZuWTZ5TnNadF9reGY?oc=5",
+      "date": "2026-11-13",
+      "summary": "",
+      "themes": [],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261113-fe-news-a8da3d",
+      "status": "approved",
+      "type": "news",
+      "outlet": "FE News",
+      "title": "Can AI help young people into education and work?",
+      "url": "https://www.fenews.co.uk/exclusive/can-ai-help-young-people-into-education-and-work/",
+      "date": "2026-11-13",
+      "summary": "With the final Milburn Report on young people not in education, employment or training (NEET) due to be published imminently, Josh Hillman asks how AI… Can AI help young people into education and work? was published on FE News by Nuffield Foundation…",
+      "themes": [
+        "Education & FE"
+      ],
+      "foundVia": "feed",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261113-indexbox-c1e33a",
+      "status": "approved",
+      "type": "news",
+      "outlet": "IndexBox",
+      "title": "UK Youth Unemployment: Milburn Report to Propose Benefit Cuts for Back-to-Work Schemes - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTdpTkFCZ1h6ejBOTzN2VlkzcHJZaUVtYm5SdU0tQ29XUXNNOUdaRGxZWVFlLUVnWkNfTWozX09hcDdKQnVBVmt5UDlhTm1VaFVaM1hkR19idmJFdnExYTZVbFNsbE9HbnlRV0NtLS1JVGl2MlhLQUV4TmVvZ1k5T0VTdThJNjl3SURRalhHSWlJZnVYV0dBeVcwX3hQZllCSVMxeGRBTXRJVWRJRW9meVAwR0pLVEdCbkROZEYxSkozT2pmR1E?oc=5",
+      "date": "2026-11-13",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261113-itvx-3efd29",
+      "status": "approved",
+      "type": "news",
+      "outlet": "ITVX",
+      "title": "Burnham gives no ‘blanket assurance’ on accepting Neets recommendations in full",
+      "url": "https://www.cotswoldjournal.co.uk/news/national/26728662.burnham-gives-no-blanket-assurance-accepting-neets-recommendations-full/",
+      "date": "2026-11-13",
+      "summary": "Asked whether he would accept the politically sensitive report in full, Mr Burnham declined to provide that “blanket assurance”. He told reporters in Dublin: “We will have to wait until the report…",
+      "themes": [
+        "Politics"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261113-nacionale-fb5d19",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Nacionale",
+      "title": "Milburn review would end PIP for most under-25s and offer a local fund instead; nothing has been decided",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeGdXMEo1TnZnWnRSeFhpeWNNQWFITFpfY1ZjUHBsc05zVWdJcXdjcEdQLXMxVU5SRG9NV1NXdXVFZGJ6TnhuNU5SNTdaODkwcHlSaGR4LWtIekUyd25pRDFscUI1M2c1T2dSelF0TkFtXzJRODctbTZEQzBQOGlmcjR0aGs1NVJtM0xnY3RoeUM5bHdfQ1hZMTNreHhHTk5UOVdFenRBYTB3NEp3S3JiSkhaa1JJbkU?oc=5",
+      "date": "2026-11-13",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare",
+        "Regional"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261113-new-economics-foundation-1f8140",
+      "status": "approved",
+      "type": "news",
+      "outlet": "New Economics Foundation",
+      "title": "Local authorities with highest NEET rates have fewest job opportunities",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZGZTdDFGNzh2eUpTWUg3eVYydTM1Z0FlU2IwSGRMT2VsdTlvZmN0TVczQk9LcGFQajU0aUNwQktYNWhFTHZCeWlKWWJZSlo4RUJfekV5ZGVHT3RaWTljbzFIM1FmblNJTE1vQi1pdjVzNHBDVVAtY045S3hEa2ZyVXVYeTg4ekljYkhSc0ctc1dZRC1IcnN6bkRZc052ekwxbVEwWWhOWQ?oc=5",
+      "date": "2026-11-13",
+      "summary": "",
+      "themes": [
+        "Regional"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261113-new-economics-foundation-d6ef60",
+      "status": "approved",
+      "type": "news",
+      "outlet": "New Economics Foundation",
+      "title": "Five tests for the Milburn review — and the government’s response to it",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUV6OVdnWHl2eTJBaFFILWEwanRxMzkycldDLVNOT2huQ2IxeG0tZkY4MkdTQmZhWGVKUmxjcF9NQTB4ZExrUnBKaG9qNVdNZ1dZaU10bkkxZ3V0YjBmdmx5YWxjVER2bU03eV90RVlRUVByeWVtMF9tV3BNZDR2LXlCQ0lEZGk2Sk5YLVI3OUt0VjVicmh1N2dxRjA2M0QtV1E?oc=5",
+      "date": "2026-11-13",
+      "summary": "",
+      "themes": [
+        "Politics"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261113-north-east-bylines-c145c9",
+      "status": "approved",
+      "type": "news",
+      "outlet": "North East Bylines",
+      "title": "Young people and work: the North East can turn what we know into opportunity",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW83aTFlQzJvNHVZczQ2QWdpYjJFNHFVbjROYmRnZnRnVHdOV0djWERMcnBnWnk3Ym95VUROc0JUaDdKN01QMkZUN3FfcTFOYzktZnFSazFBTmVmcHRaZl9uVm1hUTBxTW5WeG01SWU3MHhobUVuZkZKclp0ZU1TR2pYa190Rk15ek83MjhjWkxSWkJJbWFZUWF6N2R4SlZZY3pOMnNLeTQ1YXFSVUgwRHlhLWVBX2l6dExSUHR0ZUVTSE0?oc=5",
+      "date": "2026-11-13",
+      "summary": "",
+      "themes": [],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261113-oz-arab-media-8245b5",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Oz Arab Media",
+      "title": "Milburn Review May Propose Benefit Changes for Under-25s",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2xma05ndlo4TklScEN3dDYtQm9WUVRoSGZ0blJJZEhHaDdJeGJIZkxfMlNQQVhlRTJIU1N1S19VQzVYUWh1YVNFa2R4Yy15dW1kOV8tSEp6N0Y3dUFuZVZBX3ZuNEpUV1JQX1hRTzNEeGR2dU5RWHRCNGczd3ViTlFrY1k?oc=5",
+      "date": "2026-11-13",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261113-the-mirror-9ba0fc",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Mirror",
+      "title": "Andy Burnham says long-awaited Neets report 'watershed moment' for jobless youngsters",
+      "url": "https://www.mirror.co.uk/news/politics/andy-burnham-neets-milburn-report-37874653",
+      "date": "2026-11-13",
+      "summary": "Andy Burnham said there will be big implications for the welfare state from Alan Milburn's review into the almost one million young people not in education, employment or…",
+      "themes": [
+        "Benefits & welfare",
+        "Education & FE",
+        "Politics"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261113-the-spectator-fbc17f",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Spectator",
+      "title": "Labour MPs warm up for Milburn rebellion",
+      "url": "https://www.msn.com/en-gb/news/other/labour-mps-warm-up-for-milburn-rebellion/ar-AA2hlI4G",
+      "date": "2026-11-13",
+      "summary": "Labour MPs simply cannot help themselves. The Milburn review has not even been published, yet they are already revving the engines of rebellion. First out of the gate was the usual suspect,…",
+      "themes": [
+        "Politics"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261113-the-telegraph-65cfe7",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Telegraph",
+      "title": "Burnham refuses to commit to implementing all of Milburn’s welfare reforms",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONExFbm1uaVFub09fQ1FfX0sycGJyclpMd1pSVF94WHlrblk3SmxrVFMxWXlxVklVUFUwa3M0LW43MkhGVUQzU1ZsdHlDSVZPTk9CWnJJRFZWQUJUbGpES1lqVk40Y2lkZE9qb0xJN0lwWkNuWDdzYV9JMHhaUXd1VENYbUxjM2RzdDkxM0ZDRmp6WmQtaXcxc0dZTkpPVU1qajlaMXF5WV9mbUst?oc=5",
+      "date": "2026-11-13",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare",
+        "Politics"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261113-the-times-3829a2",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Times",
+      "title": "Alan Milburn pushes schools to make pupils more employable",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR28yV2d0cUJvM3hXSzc5dHI2bnAyeGEyR0E4UXVaTVdvbUxEa25HekdPWVUwamFFTE9oR3NYbWJtVEREWGh1X1pxLWtnazdSQ1NxN2lzYXhOcHVqVUVSbF9zOFphVHBvdkxhM2V1UDIydVJYOXhHOFpxUl9Wa3JoMnlCZGFxZW9oemkxTHdfU3hVY0dq?oc=5",
+      "date": "2026-11-13",
+      "summary": "",
+      "themes": [
+        "Education & FE"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261113-the-times-77f55a",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Times",
+      "title": "Alan Milburn’s welfare reforms won’t be enough",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWhaTnNfMGp2dXpXTHFpWTFxQklwczRiOFN6V0NvZVNmOHZxb1JsMWpCVmRPU01Td3l4MTNRWjc4Z0c5azkwTzMtR3o2anFndjg3QjI2NWFjRGRyX0k0NHJSbi1URlNfWkxFd3M3YkdwZmJueTlQQ1lwbXZSSGpQdnZ6MlFnQnAzWEdzaHBFaS1oZGlk?oc=5",
+      "date": "2026-11-13",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-channel-4-1f3f74",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Channel 4",
+      "title": "NEETs crisis: Alan Milburn report days away as speculation grows over benefit changes",
+      "url": "https://www.msn.com/en-gb/news/other/neets-crisis-alan-milburn-report-days-away-as-speculation-grows-over-benefit-changes/vi-AA2hjQBM",
+      "date": "2026-11-12",
+      "summary": "They've been described as the \"lost generation\", 1,000,000 young people not in education, employment or training (NEET).",
+      "themes": [
+        "Benefits & welfare",
+        "Education & FE"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261112-chronicle-live-616522",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Chronicle Live",
+      "title": "Young people could lose benefits under welfare shake-up, Alan Milburn review to say",
+      "url": "https://www.msn.com/en-gb/news/other/young-people-could-lose-benefits-under-welfare-shake-up-alan-milburn-review-to-say/ar-AA2hhAAf",
+      "date": "2026-11-12",
+      "summary": "The former health secretary admitted the transition would not be \"pain-free\", but insisted it was the best approach for helping young people find work and build a \"good…",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261112-city-a-m-dc1c4e",
+      "status": "approved",
+      "type": "news",
+      "outlet": "City A.M.",
+      "title": "Neets tsar Milburn says benefits overhaul will lead to savings ‘in a decade’",
+      "url": "https://www.cityam.com/neets-tsar-milburn-says-benefits-overhaul-will-lead-to-savings-in-a-decade/",
+      "date": "2026-11-12",
+      "summary": "Milburn said young people should no longer claim benefits as he argued that there should be a focus on employment and mental health support.",
+      "themes": [
+        "Benefits & welfare",
+        "Mental health"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261112-disability-rights-uk-7ea1ac",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Disability Rights UK",
+      "title": "Milburn attacks Disabled young people",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSzdrc2picWlHOEpPMm1GLUs5eWJqZVRKS3oteHkwRGNYTlpwX09UQmtyNl9tNWt1NHZUdFl4UUVTLXc3NXJPSktnbUJnSXNYMjlNeU9GZk5UTWs1c2RqeVFGc2hQU2oxclZQLVZWQmRuTzBQZmJ0d2FTaEFBLVFQUFZwbw?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [
+        "SEND"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-gb-news-06b2ea",
+      "status": "approved",
+      "type": "news",
+      "outlet": "GB News",
+      "title": "Milburn review: Young people to lose disability benefits as welfare system is 'rebuilt from scratch'",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVZVOFJvVUdJY2RreG44UkF0SFUxRnlFbUZZQjJUWUtuS2piMnU1Y1c0MWRJX2lTOHdYWlhaWmI1akh5OW5iY1dJVmNKaDJDVWw3Z3k0d2lUZXhBQ2hFUlJVY2VMQzZ5bHg5RjZZNUdiQklxTkVSWGFxVnVzQVJOU0U3ekRrc0k2MS1oS09pd2twblZBdXc?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare",
+        "SEND"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-journalarta-34577f",
+      "status": "approved",
+      "type": "news",
+      "outlet": "JournalArta",
+      "title": "Milburn Review Expected to Urge Lower Benefits for Some Under-25s",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRW9iMWUzNnJvLWpteXJYVnhjVElBN0k3cjFWRjFpbk5LN2Q2MWdpV1VmS1FqbmZGeVFZbWdTbUVwZEhReGZrNE9FSmdlOWQ5X2xLeFI1Z2RwSFJQdFZ3TXJCUFg0ZTd3akxHaDA4Sm8yQjJLZEpZNXVqcmU0b09wM1Z4a0hnMWhhNlNqaEhLZnBsVE1zYWd4d0Vn?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-london-evening-standard-05543a",
+      "status": "approved",
+      "type": "news",
+      "outlet": "London Evening Standard",
+      "title": "Burnham says Neets review will outline new ways to support young people",
+      "url": "https://www.msn.com/en-gb/news/other/burnham-says-neets-review-will-outline-new-ways-to-support-young-people/ar-AA2hjmC4",
+      "date": "2026-11-12",
+      "summary": "Burnham says Neets review will outline new ways to support young people - No 10 earlier failed to rule out that reforms would affect existing claimants.",
+      "themes": [
+        "Politics"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261112-newswav-9c96b1",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Newswav",
+      "title": "What we know about Alan Milburn’s proposed major overhaul of welfare system",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGVqcXlZc2dsVWZLaHdSSHlXbm1hbjdNNUZ5eVN2UDJzaURBWTI2ekd6VGpEN3Q5U1FoUVU3UmxXWGJ6cS1EN3V6dzg0akh5ZllycUJvU3I1c1NQQzc1QWd5c3F6MmJCbUplRnRSN0s4cGNkNW45b090bTEyZmgxY3U1Ylo4OGgzeU8zeWhCNzh2OEhOWmI4NzJzcTZjYktUemNqVHlKajZXY2FjRkhEWU5iWGlBZ3M?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-personnel-today-6a3f1d",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Personnel Today",
+      "title": "Benefits cuts for under-25s on the way as Milburn review nears launch",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xRnBERjQwMDdNXzZmX0U5LWt4dW9sX0tFZXd3MEVmTmRTcklCVDh4elpwbElBR1Q4NEZGdWFzZVc4X19pbEJST2o0TndrYVpmNHRUeHI0WGZKazA1Mk9Qb1hhN2JVRU8tYzVIb2JFSQ?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-politics-co-uk-509428",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Politics.co.uk",
+      "title": "The NEET crisis doesn’t start at 16. Neither should the solution",
+      "url": "https://www.politics.co.uk/2026/11/the-neet-crisis-doesnt-start-at-16-neither-should-the-solution/",
+      "date": "2026-11-12",
+      "summary": "When Alan Milburn’s review of young people and work is published, much of the attention will understandably focus on its recommendations for helping the nearly one million young people who…",
+      "themes": [],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261112-public-sector-executive-fb1c71",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Public Sector Executive",
+      "title": "Colleges called to lead fight against England’s growing NEET crisis",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSTl1LXM5YzZVWGt5UjNmRDFzVlRSS0pQV2ZUWXUtS1hkNjUzaDE0MjZ2cnVReU1SUU90Tjc3ai1nd3ZTZ2psNHpiYmUwaWtsakZjd1NOTFlaTXJQVmd1dGIzdTZIZFpJV1hra1BzOXV3ODhYM0dUeFZFY0ZyRkI1NXh3RjZJdzVCWjFMMzBNU0VRTFRIdldfMlZ0bTdJLTJTUFRYRUtObHJ0R2szX0Y0?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [
+        "Education & FE"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-radio-news-hub-8539d8",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Radio News Hub",
+      "title": "Milburn says changes to tackle treatment of Neets will not be ‘pain-free’",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0x3YWwxRTRSTk1XRzVYYjFvT0V4dXBlalVmYmhEbXA5YU5qNnhsV3I0YUtzY1lnakFvVEM0dVpUTTMtNnQwVjhvZXpXT0NyV3ZzWHNPaERBdDhSZWoxRlJCT2YwSWdoWURTRDh4dHlvLUtjOElmTmlIQzRudVBXMDFYNzlrZzYtZWRMMDFMZzVUQzJ4M0RlaUhQMlZWVTQ1eXI3YTJ6SjZRRkwyN0w1NU9JT1VlN1ZMcENyV3FfVQ?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-the-guardian-4f4651",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Guardian",
+      "title": "Some young disabled people to lose Pip in Milburn plan – but can apply to local fund",
+      "url": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn",
+      "date": "2026-11-12",
+      "summary": "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence…",
+      "themes": [
+        "Benefits & welfare",
+        "SEND",
+        "Regional"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261112-the-independent-23d3c6",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Independent",
+      "title": "Young people to no longer get main sickness benefit and PIP under Milburn’s welfare overhaul plan",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGt6aHQxWWk3eE13M3ZuYWp5dFVoNHJSMHB1X3FaUEdUWHEwT3g0cjM5XzEzeHo0NWppTHNaNG9jMERxYktkcDhzeUxpRzk4YzVtLVJHbFdZUlhBTHZkemM0azdMZW1aaHh2aW5wVDAtTDJLN3g3V1ZMUzRJRlU0YkpaSmNNMG8tczk2UGF6WWFaUGJRSXJOaXk1bG8zNjJ1X0ZOM25HVDk0UWctREVnRVd3?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-the-independent-42760a",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Independent",
+      "title": "Will Alan Milburn’s plans for ‘neets’ make any difference to welfare?",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3ZydVdDZkktd01KNUZMNTFtdTZ1cnZXeEZfQzR6ZDNCOUxYXzl3czlXWG5FX1RNS1h2b1Y0MFRLZzVDeDhLamtZY1Zycm1wRnF4MUtheUtFRDZReXlNdmJZWVE5a3QwVG5QQ2daVmNOU1NQVlFkenJZZEpmWFNldDBLeGREVDl6RnIwOTRldTk4RmcwS296QldHaU1WTzJJTVhQX0Q1UTZUTUNlcXdKYnRCeDdVT2ZRVTRycnNIQll2Ukx2RXJDRmhR?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-the-independent-556a93",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Independent",
+      "title": "250,000 more Neets across UK in five years, new analysis warns",
+      "url": "https://www.msn.com/en-gb/news/other/new-analysis-reveals-there-will-be-250000-more-neets-in-five-years/ar-AA2hjFFG",
+      "date": "2026-11-12",
+      "summary": "250,000 more Neets across UK in five years, new analysis warns - Exclusive: The analysis comes as the Lib Dems call for each under-25 year old to be guaranteed 100 hours of work…",
+      "themes": [],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261112-the-mirror-b78079",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Mirror",
+      "title": "Young people face losing benefits under radical welfare shake-up, Milburn review to say",
+      "url": "https://www.mirror.co.uk/news/politics/welfare-cuts-benefits-alan-milburn-37868806",
+      "date": "2026-11-12",
+      "summary": "Alan Milburn’s proposals would see adults under 25 lose access to the support, and instead get a new youth allowance paid at the standard rate of universal…",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261112-the-mirror-ca7244",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Mirror",
+      "title": "Should young people lose access to DWP benefits?",
+      "url": "https://www.mirror.co.uk/news/politics/alan-milburn-welfare-benefits-neets-37869191",
+      "date": "2026-11-12",
+      "summary": "Former Labour Cabinet minister Alan Milburn admitted changes to how out-of-work young people are treated will not be 'pain-free' ahead of the release of his major…",
+      "themes": [
+        "Benefits & welfare",
+        "Politics"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261112-the-times-6479ac",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Times",
+      "title": "Milburn review calls for young people to be taken off sickness benefits",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVzVvdnFpOTJkRmVxLTdDelFIZFU2Nmg1VEpUNDFmLXNWNVF0MzlMQXdZRFB3ZWtvWC1ndW1YbktsRG5BckllT2FBY2U2bzZleXhJRVhjMHJ1UmhvWjE4cmk2cncwT0YtaUlkanh6Tmd5b1A1OHMybEVFSVFDYzJxTklPX09lckN3RWlRM0NoYy02YktfVHF2UVgzQ0V5ZlluR0VhYW1ZMmtKNGY0NkY5VUc2Q0cwX25ocDFYaG1TdlpuU2pm?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-ua-news-c4f44c",
+      "status": "approved",
+      "type": "news",
+      "outlet": "UA.NEWS",
+      "title": "Milburn review proposes local fund to replace PIP for young people",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVjFFcXFMcE1ZckxWVHg5ZlBCUWdNY2h3eWJQY0xGVlBUTEExRDZUbnJTZV90RHNJdXU2X0FSWHhuZ2lCMDBQZ3lDNGNhMzFCM3BULUstMTF3MUlKUFlJZHk2U0xSNTFFcmNNUllWNnF2X09WdFhiUFBOU1J4aDBzZE0zNGhnTlQydVVTQ1JsRHhSM2duck9IWmRsVHVES0ZfakZqbENza3QycXlSY3hiTTRZdw?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare",
+        "Regional"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261112-yahoo-news-uk-8b320b",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Yahoo News UK",
+      "title": "Peston: Why Milburn's NEET reforms will upset both left and right",
+      "url": "https://uk.news.yahoo.com/peston-why-milburns-neet-reforms-183640486.html",
+      "date": "2026-11-12",
+      "summary": "As of what we know from Milburn's selective disclosures, the left of the Labour party, the Green Party and the LibDems are highly likely to accuse Milburn and the government of taking vital…",
+      "themes": [
+        "Politics"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261112-yahoo-news-uk-9cb49d",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Yahoo News UK",
+      "title": "New analysis reveals there will be 250,000 more NEETs in five years unless action is taken",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wNDRaZEsyOU9PT254YzFIeGJxb090cXVqNmhvOGU0bm9yU3Y3T1ROejZhVzQwYkwxVld1VE1objFSME9PNTExVFlyXzl4YlhxMldhcXdMZVNRWnltd25MQUhmVmd4M1dIRUZEM0ltNkxCOEhKcGdYQUxn?oc=5",
+      "date": "2026-11-12",
+      "summary": "",
+      "themes": [],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261111-bbc-7026d8",
+      "status": "approved",
+      "type": "news",
+      "outlet": "BBC",
+      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "url": "https://www.msn.com/en-us/news/other/some-under-25s-should-get-less-benefits-milburn-review-to-say/ar-AA2hfDLl",
+      "date": "2026-11-11",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261111-centre-for-cities-c37af5",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Centre for Cities",
+      "title": "What will the Milburn Review mean for the mayors?",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaExaUVoyeVZ6RDB0M2ZDNEpPVUZtVW8tUWt0QW9UdDVvaWlPczVvOE15bDU5YVIzOVVJUXVGdFI2QTNfZGhaNkJkSWstN2diNU1nZEtEdmRBOXZrYk81ZElpVnFkeGR3czNBYlNadzRJVW5BbmlSeU0yYmJqYlZLZUdUWHIxM3JfZVN6RmdSUQ?oc=5",
+      "date": "2026-11-11",
+      "summary": "",
+      "themes": [
+        "Regional"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261111-family-fund-ad26f2",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Family Fund",
+      "title": "Family Fund calls for greater support for disabled young people ahead of Milburn report",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVI3SFI2M3NDZ3QzQV82M2tRdzRDM21TU3BRR3hVdUMwQlNFNi1ubEM1NWZKa1Zja1BCLThGMGd0WmRpRWp6X2FKZlBtSkRYdW9tN01OZnJxUGZPbnNGRTE2emc5ZnYzRFo3QUFzeTNZTXd4MFVNcm5wUXNXV19OT0g1bGplQ3VlaFh0WG5NbVJDTEVuYWNFQnYtWDZEUEpzVHFDT1RPc0ZmUjdXUGZHLXAzSnEzMFhOT3l5dFF6RDg?oc=5",
+      "date": "2026-11-11",
+      "summary": "",
+      "themes": [
+        "SEND"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261111-lbc-ca510f",
+      "status": "approved",
+      "type": "news",
+      "outlet": "LBC",
+      "title": "Benefits system will be rewritten for under-25s, as Milburn warns that process will be painful for some",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUczaTk3ZFJQSFI3VkNFVzJEYVJmU1M2cUFqZ0YwZHJSUjFJVmx3NkZmaGNLcWtocElMN2lmY0xSOUx3WUo5RGdMWWRKUnNnR3JxbUhwQ1VmVkUtVU1yTE4wVkdyWWhuVGJSM3VSMlBuLTcwakxabktmVjB3Q1dFdlJn?oc=5",
+      "date": "2026-11-11",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261111-resolution-foundation-46a691",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Resolution Foundation",
+      "title": "Can Milburn rise to the scale of Britain’s NEETs challenge?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQzZoRjMycm9LTjVHVFBvdUszYnlqdGFJVnBDcHp4dUxyanBtSGNnX2hSaDJHQWlPRmdaOHE0LS1ySFdldjQtQ05jSEZua1NUNHFOWmlCN0NadVZHVWtVSV9lTVh1T1UtMHprWnlWRHAtWnVtOUVoVTdCbUEzOE5YZHJZdE1PVGgwcGRSTm1Ia2x1NWdlbXgxUVFNTWVsMWVvZUYtZjhn?oc=5",
+      "date": "2026-11-11",
+      "summary": "",
+      "themes": [],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261111-the-independent-6d3308",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Independent",
+      "title": "Under-25s to no longer get main sickness benefit and PIP under plan",
+      "url": "https://www.msn.com/en-gb/news/other/under-25s-to-no-longer-get-main-sickness-benefit-and-pip-under-plan/ar-AA2hffzD",
+      "date": "2026-11-11",
+      "summary": "Young people to no longer get main sickness benefit and PIP under Milburn’s welfare overhaul plan - Under-25s would be moved off the main sickness and disability benefits and given an allowance…",
+      "themes": [
+        "Benefits & welfare",
+        "SEND"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261111-the-times-4ff424",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Times",
+      "title": "Alan Milburn on his welfare state reset: ‘Rebuild it from scratch’",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTW9icU9WOFZvSDhQaXF0MERKOG9OUWIyMEJkRjh3TDQ0S1A3S0tQN3REdzQxS2dmWFJUU05QVjhRcC1HVGEzZGZWWndxbE1KZlYyRHN5VUcya1J3WWJTOUtKU2dCeEIxWGJ4OWdqWGNmbXUycnV4bG5scWtxRTU0MFRvazAzTUcxOUEwY0RiU3RWUG0tN1JzNVRYZ0swYXBMaktsUmtWMlhjanUzTVJzUl9FOVBoSUJlV2c?oc=5",
+      "date": "2026-11-11",
+      "summary": "",
+      "themes": [
+        "Benefits & welfare"
+      ],
+      "foundVia": "google",
+      "addedOn": "2026-11-14",
+      "needsSummary": true,
+      "linkIsRedirect": true
+    },
+    {
+      "id": "20261111-wales-online-dc8469",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Wales Online",
+      "title": "Under-25s 'banned from claiming two benefits' under major review",
+      "url": "https://www.msn.com/en-gb/news/other/under-25s-banned-from-claiming-two-benefits-under-major-review/ar-AA2hgEUP",
+      "date": "2026-11-11",
+      "summary": "The Milburn Review has been looking at how Andy Burnham's Government can reform the welfare…",
+      "themes": [
+        "Benefits & welfare",
+        "Politics"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261109-the-guardian-9cf9fd",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Guardian",
+      "title": "Fixing UK’s youth jobs crisis demands much more investment, TUC boss warns",
+      "url": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
+      "date": "2026-11-09",
+      "summary": "Paul Nowak also calls on government to avoid arbitrary benefit cuts before much-anticipated Milburn report is published this…",
+      "themes": [
+        "Benefits & welfare",
+        "Politics"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261108-tes-3f6ede",
+      "status": "approved",
+      "type": "news",
+      "outlet": "Tes",
+      "title": "Leaders warn government not to pile Neet work onto schools",
+      "url": "https://www.tes.com/magazine/news/general/leaders-warn-government-not-pile-neet-work-schools",
+      "date": "2026-11-08",
+      "summary": "As schools sector awaits imminent Milburn report on tackling the Neet crisis, an ASCL report accepts that schools can drive much of the work - but not…",
+      "themes": [
+        "Education & FE",
+        "Politics"
+      ],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261108-the-guardian-47190b",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Guardian",
+      "title": "‘I just got AI emails rejecting my application – or no reply at all’: this is the soul-crushing reality of being a Neet",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/08/young-people-soul-crushing-reality-neet-alan-milburn-life",
+      "date": "2026-11-08",
+      "summary": "Alan Milburn describes them as a ‘lost generation’. Those I spoke to just want to know what they have to do to finally get a job – and a chance in life, says Guardian columnist John…",
+      "themes": [],
+      "foundVia": "bing",
+      "addedOn": "2026-11-14"
+    },
+    {
+      "id": "20261106-the-guardian-01d3d3",
+      "status": "approved",
+      "type": "news",
+      "outlet": "The Guardian",
+      "title": "Burnham aims for ‘quite radical change’ in support for young people",
+      "url": "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets",
+      "date": "2026-11-06",
+      "summary": "Prime minister says ‘root and branch review of childhood’ is needed and he does not rule out some benefit cuts The government is aiming for “quite radical change” in the way young people are supported, Andy Burnham has said, indicating this could include tougher rules…",
+      "themes": [
+        "Benefits & welfare",
+        "Politics"
+      ],
+      "foundVia": "feed",
+      "addedOn": "2026-11-14"
+    },
+    {
       "id": "20261105-birmingham-live-c8113b",
       "status": "approved",
       "type": "news",
